@@ -1,0 +1,16 @@
+*{
+	font-family: verdana;
+}
+h2,p.fondoRosa{
+	background:pink;
+/*section h2.colorRosa{
+	color:pink;
+*/}
+section p.colorRosa{color:pink;}
+
+/*Este de abajo es para poner el estilo en lo que quieres 
+específico, el de arriba es universal*/
+h2,p{
+	color:green;
+	font-size:25px;
+}
